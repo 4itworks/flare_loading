@@ -12,6 +12,7 @@ dependencies:
     git:
       url: https://github.com/AmrNRD/Flare-Flutter
       path: flare_flutter/
+      ref: stable
   flutter:
     sdk: flutter
 
