@@ -54,7 +54,7 @@ packages:
     dependency: "direct main"
     description:
       path: flare_flutter
-      ref: HEAD
+      ref: stable
       resolved-ref: "2ab67931326cb47d1ac5efbbc8807ad42a6a9b60"
       url: "https://github.com/AmrNRD/Flare-Flutter"
     source: git
