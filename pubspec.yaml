@@ -10,7 +10,7 @@ environment:
 dependencies:
   flare_flutter:
     git:
-      url: https://github.com/AmrNRD/Flare-Flutter
+      url: https://github.com/AmrNRD/Flare-Flutter.git
       path: flare_flutter/
       ref: stable
   flutter:
