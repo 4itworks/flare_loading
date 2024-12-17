@@ -10,9 +10,9 @@ environment:
 dependencies:
   flare_flutter:
     git:
-      url: https://github.com/mbfakourii/Flare-Flutter.git
+      url: https://github.com/AmrNRD/Flare-Flutter.git
       path: flare_flutter
-      ref: remove_hashValues
+      ref: stable
   flutter:
     sdk: flutter
 
